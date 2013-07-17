@@ -18,7 +18,7 @@
 * __No Duplicate Suggestions__
 
     Do not post duplicate suggestions, if an idea has been shared before continue
-    the discussion in the pre-exisiting thread.
+    the discussion in the pre-exisiting thread. Suggestions that have ceased discussions over one year ago may be started again in a new thread.
 
 * __No Vague Suggestions__
 
