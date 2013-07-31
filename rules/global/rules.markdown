@@ -115,6 +115,10 @@ The guidelines and information below applies to the entire forum.
 
     The only member permitted to access an account is the owner, unless permission
     is explicitly granted by that member.
+    
+* __Violate the Privacy of Other Users__
+ 
+    Do not reveal personal information about another user without their explicit permission.
 
 * __Troll__
 
